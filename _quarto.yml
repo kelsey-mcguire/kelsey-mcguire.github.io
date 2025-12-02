@@ -4,17 +4,32 @@ project:
 
 website:
   title: "Kelsey McGuire"
+  favicon: images/mountain-kelsey.png
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - sidebar:past-research
+      - courses.qmd
+      - cv.qmd
+        
+  sidebar:
+    - id: past-research
+      title: "Past Research"
+      style: "docked"
+      background: light
+      collapse-level: 3
+      contents: 
+        - past-research/burns-bog.qmd
+        - past-research/cambodia.qmd
+        - past-research/kaska-wheeler.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: sandstone
+      dark: darkly
     css: styles.css
     toc: true
 

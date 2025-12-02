@@ -1,9 +1,8 @@
 ---
 title: "About"
 ---
+Here's a little history about me!
 
-About this site
+I am originally from outside of Ottawa, ON, which is the traditional and unceded territories of the Omàmìwininìwag (Algonquin) and Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ.
 
-```{r}
-1 + 1
-```
+In Progress!
