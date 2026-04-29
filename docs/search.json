@@ -2,15 +2,101 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am originally from outside of Ottawa, ON, which is the traditional and unceded territories of the Omàmìwininìwag (Algonquin) and Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ.\nI was lucky to have grown up alongside a creek where I was able to see how riparian zones and aquatic systems worked, and spent a lot of time rowing out to the small island where geese would come each spring to raise their little ones and watch the beavers at work stopping pesky running water.\n\n\n\n\nBlast forward 10 or so years, and I began my undergraduate degree at Queen’s University before jumping over across the country to attend the University of British Columbia for the remainder of my studies.\nI pursued Geographical Sciences within the Geography Department - which I highly recommend! - and got introduced to the wonderful and challenging world of research. I started out as an Undergraduate Research Assistant within the UBC Micrometeorology lab - now the EcoFlux lab at McGill - under Dr. Sara Knox studying post-fire peatland bog systems, before shifting to studying tropical savanna-forest landscape dynamics with Dr. Naomi Schwartz in the Geospatial Ecology Lab.\n\n\n\n\n\n\nThese experiences led me to pursuing a Masters degree within UBC Geography because I couldn’t quite let go of that department yet. In this degree I was able to shift North and study shoreline methane dynamics within Kaska ancestral territory. To learn more about this project, check it out here!\nNow I look forward to pursuing new experiences outside of school! I love to work within conservation spaces, and am actively pursuing future work that can lead me down a path of helping natural environments and ensuring that people can live and enjoy these spaces too!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kelsey McGuire",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello and thank you for visiting my website! My name is Kelsey McGuire and I am currently a second-year masters student at the University of British Columbia with the Boreal-Arctic Biogeochemistry Lab. I am being supervised by Dr. McKenzie Kuhn, where my MSc thesis seeks to understand how vegetation along a Kaska lake shoreline alters methane (CH4) emission directly and indirectly.\nI have been lucky to work with different research labs on a range of topics. If you want to learn more about the work I have done, please look at my past research tab!\nI would like to acknowledge that I am a visitor that lives and conducts research on the traditional, ancestral, and unceded territories of the xʷməθkwəy̓əm Musqueam, Skwxwú7mesh Squamish, and səlilwətaɬ/Selilwitulh Tsleil-Waututh nations. The research towards my current thesis has been conducted in partnership with the Kaska Dena Kayeh peoples and I have been thankful to work on their land and to learn from their land guardians."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kelsey McGuire",
+    "section": "Education",
+    "text": "Education\nMSc Geography, University of British Columbia | Present\nBSc Geographical Sciences, University of British Columbia | 2024"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Kelsey McGuire",
+    "section": "",
+    "text": "Hello and thank you for visiting my website! My name is Kelsey McGuire and I am currently a second-year masters student at the University of British Columbia with the Boreal-Arctic Biogeochemistry Lab. I am being supervised by Dr. McKenzie Kuhn, where my MSc thesis seeks to understand how vegetation along a Kaska lake shoreline alters methane (CH4) emission directly and indirectly.\nI have been lucky to work with different research labs on a range of topics. If you want to learn more about the work I have done, please look at my past research tab!\nI would like to acknowledge that I am a visitor that lives and conducts research on the traditional, ancestral, and unceded territories of the xʷməθkwəy̓əm Musqueam, Skwxwú7mesh Squamish, and səlilwətaɬ/Selilwitulh Tsleil-Waututh nations. The research towards my current thesis has been conducted in partnership with the Kaska Dena Kayeh peoples and I have been thankful to work on their land and to learn from their land guardians."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "In Progress!"
+  },
+  {
+    "objectID": "past-research/kaska-wheeler.html",
+    "href": "past-research/kaska-wheeler.html",
+    "title": "MSc Research (Wheeler Lake - Kaska Ancestral Territory)",
+    "section": "",
+    "text": "In Progress!",
+    "crumbs": [
+      "MSc Research (Wheeler Lake - Kaska Ancestral Territory)"
+    ]
+  },
+  {
+    "objectID": "past-research/burns-bog.html",
+    "href": "past-research/burns-bog.html",
+    "title": "Undergraduate Research Assistant (Burns Bog, BC)",
+    "section": "",
+    "text": "In Progress!",
+    "crumbs": [
+      "Undergraduate Research Assistant (Burns Bog, BC)"
+    ]
+  },
+  {
+    "objectID": "past-research/cambodia.html",
+    "href": "past-research/cambodia.html",
+    "title": "USRA - Cambodia",
+    "section": "",
+    "text": "In Progress!",
+    "crumbs": [
+      "USRA - Cambodia"
+    ]
+  },
+  {
+    "objectID": "past-research.html",
+    "href": "past-research.html",
+    "title": "A Glimpse into My Past Research",
+    "section": "",
+    "text": "Couldn’t Not Include a Map\nI’d like to recognize that the base layer here is from Native Land Digital and that as a settler on stolen land, it is important to recognize who are the stewards of the land our work is conducted on and to recognize that people have and will always be a part of shaping it’s history."
+  },
+  {
+    "objectID": "past-research.html#nserc-graduate-student-research-kaska-ancestral-territory---bcyk",
+    "href": "past-research.html#nserc-graduate-student-research-kaska-ancestral-territory---bcyk",
+    "title": "A Glimpse into My Past Research",
+    "section": "NSERC Graduate Student Research (Kaska Ancestral Territory - BC/YK)",
+    "text": "NSERC Graduate Student Research (Kaska Ancestral Territory - BC/YK)\nAs a MSc Student within the Boreal-Arctic Biogeochemistry lab, I had the opportunity to work through all aspects of a research project, from it’s inception to it’s execution. I came into this position wanting to explore the world of aquatic Carbon measurements and to expand my knowledge base into aquatic systems. I didn’t just gain these technical insights, but also I was able to explore how to be a mentor to undergraduate students, helped to think about lab structure and organization, and most importantly how to make research fun and collaborative!\n\n\n\n\n\n\n\n\n\nTechnically I was able to gain experience across different measurement techniques, from navigating fickle water quality sondes, to reeling in floating chambers! This gave me greater insight into how static, ground measurements are performed and the pros and cons associated with this type of sampling versus my previous work with eddy covariance towers.\nPersonally, a lot of growth occurred during my masters where I was able to understand who I want to be as a researcher and the legacies I leave behind. I loved being able to connect, and in some cases, mentor other members within the lab and that experience is fueling me in my current job search. Research can sometimes be daunting and intimidating to those outside it, but I look forward to fostering more connections and hopefully imparting some - potentially unsolicited - advice to those entering field and research positions!\n\n\n\n\nHere is a video I made as a product for my Weston Family and WCS Canada Boreal Research Fellowship talking about the uses of Floating Chambers and Bubble Traps to capture CH4 in the field. Take a listen if you’d like to (A) learn a little more about aquatic Carbon measurements and (B) want a view into the field!"
+  },
+  {
+    "objectID": "past-research.html#nserc-undergraduate-student-research-lead-cambodia",
+    "href": "past-research.html#nserc-undergraduate-student-research-lead-cambodia",
+    "title": "A Glimpse into My Past Research",
+    "section": "NSERC Undergraduate Student Research Lead (Cambodia)",
+    "text": "NSERC Undergraduate Student Research Lead (Cambodia)"
+  },
+  {
+    "objectID": "past-research.html#undergraduate-research-assistant-burns-bog-bc",
+    "href": "past-research.html#undergraduate-research-assistant-burns-bog-bc",
+    "title": "A Glimpse into My Past Research",
+    "section": "Undergraduate Research Assistant (Burns Bog, BC)",
+    "text": "Undergraduate Research Assistant (Burns Bog, BC)"
+  },
+  {
+    "objectID": "past-research.html#undergraduate-research-assistant-hənqəminəm-sḵwxwú7mesh-sníchim---bc",
+    "href": "past-research.html#undergraduate-research-assistant-hənqəminəm-sḵwxwú7mesh-sníchim---bc",
+    "title": "A Glimpse into My Past Research",
+    "section": "Undergraduate Research Assistant (hən̓q̓əmin̓əm̓, Sḵwx̱wú7mesh sníchim - BC)",
+    "text": "Undergraduate Research Assistant (hən̓q̓əmin̓əm̓, Sḵwx̱wú7mesh sníchim - BC)"
   }
 ]

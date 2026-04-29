@@ -1,0 +1,44 @@
+---
+title: "A Glimpse into My Past Research"
+format:
+  html:
+    theme: default
+---
+*Couldn't Not Include a Map*
+
+I'd like to recognize that the base layer here is from [Native Land Digital](native-land.ca) and that as a settler on stolen land, it is important to recognize who are the stewards of the land our work is conducted on and to recognize that people have and will always be a part of shaping it's history. 
+
+## NSERC Graduate Student Research (Kaska Ancestral Territory - BC/YK)
+As a MSc Student within the Boreal-Arctic Biogeochemistry lab, I had the opportunity to work through all aspects of a research project, from it's inception to it's execution. I came into this position wanting to explore the world of aquatic Carbon measurements and to expand my knowledge base into aquatic systems. I didn't just gain these technical insights, but also I was able to explore how to be a mentor to undergraduate students, helped to think about lab structure and organization, and most importantly how to make research fun and collaborative!
+
+:::::::: columns
+::: {.column width="50%"}
+![](images/chamber-kelsey.jpg){width="95%"}
+:::
+
+:::: {.column width="50%"}
+::: {style="text-align: right;"}
+![](images/bub-kelsey.jpeg){width="95%"}
+:::
+::::
+::::::::
+
+Technically I was able to gain experience across different measurement techniques, from navigating fickle water quality sondes, to reeling in floating chambers! This gave me greater insight into how static, ground measurements are performed and the pros and cons associated with this type of sampling versus my previous work with eddy covariance towers.
+
+Personally, a lot of growth occurred during my masters where I was able to understand who I want to be as a researcher and the legacies I leave behind. I loved being able to connect, and in some cases, mentor other members within the lab and that experience is fueling me in my current job search. Research can sometimes be daunting and intimidating to those outside it, but I look forward to fostering more connections and hopefully imparting some - potentially unsolicited - advice to those entering field and research positions!
+
+::::: {.columns .align-items-left style="gap: 2.5rem;"}
+::: {.column width="50%"}
+{{< video images/Mcguire-Explains.mov height="200px">}}
+:::
+
+::: {.column width="50%"}
+Here is a video I made as a product for my Weston Family and WCS Canada Boreal Research Fellowship talking about the uses of Floating Chambers and Bubble Traps to capture CH4 in the field. Take a listen if you'd like to (A) learn a little more about aquatic Carbon measurements and (B) want a view into the field!
+:::
+:::::
+
+## NSERC Undergraduate Student Research Lead (Cambodia)
+
+## Undergraduate Research Assistant (hən̓q̓əmin̓əm̓, Sḵwx̱wú7mesh sníchim - BC)
+
+

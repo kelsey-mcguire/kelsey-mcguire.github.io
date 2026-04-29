@@ -4,17 +4,21 @@ project:
 
 website:
   title: "Kelsey McGuire"
+  favicon: images/mountain-kelsey.png
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - past-research.qmd
+      - href: files/Mcguire_CV_Apr26.pdf
+        text: CV
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: sandstone
+      dark: darkly
     css: styles.css
     toc: true
 

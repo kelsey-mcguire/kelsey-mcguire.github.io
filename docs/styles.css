@@ -1,1 +1,106 @@
 /* css styles */
+/* Main navbar */
+.navbar {
+  background-color: #1d4e89 !important;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #e2f0f3 !important;
+}
+
+/* Dropdown menu background */
+.dropdown-menu {
+  background-color: white;
+}
+
+/* Dropdown text */
+.dropdown-item {
+  color: #333 !important;
+}
+
+/* Dropdown hover */
+.dropdown-item:hover {
+  background-color: #e2f0f3;
+  color: #000 !important;
+}
+
+/* Whole page background */
+body {
+  background-color: #e2f0f3;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: #1d4e89 !important;
+}
+
+/* Right sidebar TOC links */
+.toc a {
+  color: #1d4e89 !important;
+}
+
+/* Hover state */
+.toc a:hover {
+  color: #2769b9 !important;
+}
+
+/* Sidebar background */
+.sidebar {
+  background-color: #e2f0f3 !important;
+}
+
+/* Sidebar text (links) */
+.sidebar-item a {
+  color: #1d4e89 !important;
+}
+
+/* Hover effect */
+.sidebar-item a:hover {
+  color: #2769b9 !important;
+  text-decoration: underline;
+}
+
+/* Active page */
+.sidebar-item a.active {
+  color: #2769b9 !important;
+  font-weight: 600;
+}
+
+/* Normal links */
+a {
+  color: #1d4e89;
+}
+
+/* Visited links */
+a:visited {
+  color: #252d28;
+}
+
+/* Hovered links */
+a:hover {
+  color: #2769b9;
+}
+
+/* Active / clicked */
+a:active {
+  color: #252d28;
+}
+
+/* column settings */
+.columns {
+  display: flex;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+.column {
+  flex: 1;
+  min-width: 0;
+}
+
+.columns img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
