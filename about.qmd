@@ -1,7 +1,6 @@
 ---
 title: "About Me"
 ---
-
 ::::: {.columns .align-items-center style="gap: 2.5rem;"}
 ::: {.column width="30%"}
 ![](images/kid-kelsey.jpg){width="85%"}
@@ -30,7 +29,7 @@ I pursued Geographical Sciences within the Geography Department - which I highly
 ::::
 ::::::
 
-These experiences led me to pursuing a Masters degree within UBC Geography because I couldn't quite let go of that department yet. In this degree I was able to shift North and study shoreline methane dynamics within Kaska ancestral territory. To learn more about this project, check it out [here](/past-research/kaska-wheeler.qmd)!
+These experiences led me to pursuing a Masters degree within UBC Geography because I couldn't quite let go of that department yet. In this degree I was able to shift North and study shoreline methane dynamics within Kaska ancestral territory. To learn more about this project, check it out [here](/past-research.qmd)!
 
 Now I look forward to pursuing new experiences outside of school! I love to work within conservation spaces, and am actively pursuing future work that can lead me down a path of helping natural environments and ensuring that people can live and enjoy these spaces too!
 

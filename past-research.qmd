@@ -9,7 +9,7 @@ format:
 <iframe 
   width='100%' 
   height='400px' 
-  src="https://api.mapbox.com/styles/v1/kmcguire33/cmokjweyd001201sodcwuh5uz.html?title=false&access_token=pk.eyJ1Ijoia21jZ3VpcmUzMyIsImEiOiJjbG5ucnp1em0wNzJrMnNwZ2ZyYTg2dTY4In0.TuyTQQVMp_TFZkj57EbkGg&zoomwheel=false#2/52.240/163.742" 
+  src="https://api.mapbox.com/styles/v1/kmcguire33/cmokjweyd001201sodcwuh5uz.html?title=false&access_token=pk.eyJ1Ijoia21jZ3VpcmUzMyIsImEiOiJjbG5ucnp1em0wNzJrMnNwZ2ZyYTg2dTY4In0.TuyTQQVMp_TFZkj57EbkGg&zoomwheel=false#2/52.240/163.742"
   title="kels-personal-map" 
   style="border:none;">
 </iframe>

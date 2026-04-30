@@ -19,6 +19,6 @@ about:
 
 Hello and thank you for visiting my website! My name is Kelsey McGuire and I am currently a second-year masters student at the University of British Columbia with the [Boreal-Arctic Biogeochemistry Lab](https://bab-lab.github.io/). I am being supervised by Dr. McKenzie Kuhn, where my MSc thesis seeks to understand how vegetation along a Kaska lake shoreline alters methane (CH4) emission directly and indirectly. 
 
-I have been lucky to work with different research labs on a range of topics. If you want to learn more about the work I have done, please look at my past research tab!
+I have been lucky to work with different research labs on a range of topics. If you want to learn more about the work I have done, please look at my [past research tab](/past-research.qmd)!
 
 I would like to acknowledge that I am a visitor that lives and conducts research on the traditional, ancestral, and unceded territories of the xʷməθkwəy̓əm [Musqueam](https://www.musqueam.bc.ca/), Skwxwú7mesh [Squamish](https://www.squamish.net/), and səlilwətaɬ/Selilwitulh [Tsleil-Waututh](https://twnation.ca/) nations. The research towards my current thesis has been conducted in partnership with the [Kaska Dena Kayeh](https://kaskadenacouncil.com/) peoples and I have been thankful to work on their land and to learn from their land guardians.

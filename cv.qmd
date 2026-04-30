@@ -1,6 +1,0 @@
----
-title: "CV"
-format: html
----
-
-In Progress!
