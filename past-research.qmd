@@ -4,14 +4,24 @@ format:
   html:
     theme: default
 ---
+
 *Couldn't Not Include a Map*
 
-I'd like to recognize that the base layer here is from [Native Land Digital](native-land.ca) and that as a settler on stolen land, it is important to recognize who are the stewards of the land our work is conducted on and to recognize that people have and will always be a part of shaping it's history. 
+<iframe 
+  width="100%" 
+  height="400px" 
+  src="https://api.mapbox.com/styles/v1/kmcguire33/cmokjweyd001201sodcwuh5uz.html?title=false&amp;access_token=pk.eyJ1Ijoia21jZ3VpcmUzMyIsImEiOiJjbG5ucnp1em0wNzJrMnNwZ2ZyYTg2dTY4In0.TuyTQQVMp_TFZkj57EbkGg&amp;zoomwheel=false#2/52.240/163.742" 
+  title="kels-personal-map" 
+  style="border:none;">
+</iframe>
+
+I'd like to recognize that the base layer here is from [Native Land Digital](native-land.ca) and that as a settler on stolen land, it is important to recognize who are the stewards of the land our work is conducted on and to recognize that people have and will always be a part of shaping it's history.
 
 ## NSERC Graduate Student Research (Kaska Ancestral Territory - BC/YK)
+
 As a MSc Student within the Boreal-Arctic Biogeochemistry lab, I had the opportunity to work through all aspects of a research project, from it's inception to it's execution. I came into this position wanting to explore the world of aquatic Carbon measurements and to expand my knowledge base into aquatic systems. I didn't just gain these technical insights, but also I was able to explore how to be a mentor to undergraduate students, helped to think about lab structure and organization, and most importantly how to make research fun and collaborative!
 
-:::::::: columns
+:::::: columns
 ::: {.column width="50%"}
 ![](images/chamber-kelsey.jpg){width="95%"}
 :::
@@ -21,7 +31,7 @@ As a MSc Student within the Boreal-Arctic Biogeochemistry lab, I had the opportu
 ![](images/bub-kelsey.jpeg){width="95%"}
 :::
 ::::
-::::::::
+::::::
 
 Technically I was able to gain experience across different measurement techniques, from navigating fickle water quality sondes, to reeling in floating chambers! This gave me greater insight into how static, ground measurements are performed and the pros and cons associated with this type of sampling versus my previous work with eddy covariance towers.
 
@@ -40,5 +50,3 @@ Here is a video I made as a product for my Weston Family and WCS Canada Boreal R
 ## NSERC Undergraduate Student Research Lead (Cambodia)
 
 ## Undergraduate Research Assistant (hən̓q̓əmin̓əm̓, Sḵwx̱wú7mesh sníchim - BC)
-
-
