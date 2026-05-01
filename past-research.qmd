@@ -68,7 +68,7 @@ Here is a video I made as a product for my Weston Family and WCS Canada Boreal R
 
 ::::: {.columns .align-items-left style="gap: 2.5rem;"}
 ::: {.column width="50%"}
-I was fortunate enough to have received an NSERC Undergraduate Student Research Award that let me pursue a research project with [Dr. Naomi Schwartz](naomibschwartz.github.io) in Cambodia. My project sought to understand how belowground carbon dynamics, through soil bulk density and fine root inventories, change across savanna-forest boundaries. This project entailed working across three study sites, with varying landscapes and we used transects to evaluate spatial variation horizontally and soil coring to get vertical profiles. This work would not have been possible without the wonderful field workers that supported us, Bou Phem, Bou Sy, Bou Reng, and Bou Chin - learning Khmer inside jokes and making them laugh as I tripped over forest brush was a highlight!
+I was fortunate enough to have received an NSERC Undergraduate Student Research Award that let me pursue a research project with [Dr. Naomi Schwartz](https://naomibschwartz.github.io) in Cambodia. My project sought to understand how belowground carbon dynamics, through soil bulk density and fine root inventories, change across savanna-forest boundaries. This project entailed working across three study sites, with varying landscapes and we used transects to evaluate spatial variation horizontally and soil coring to get vertical profiles. This work would not have been possible without the wonderful field workers that supported us, Bou Phem, Bou Sy, Bou Reng, and Bou Chin - learning Khmer inside jokes and making them laugh as I tripped over forest brush was a highlight!
 :::
 
 ::: {.column width="50%"}
