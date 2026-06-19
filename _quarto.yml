@@ -11,7 +11,7 @@ website:
         text: Home
       - about.qmd
       - past-research.qmd
-      - href: files/Mcguire_CV_Jun18.pdf
+      - href: docs/files/Mcguire_CV_Jun18.pdf
         text: CV
 
 format:
